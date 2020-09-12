@@ -13,7 +13,7 @@ Thanks to all the [awesome people who contributed](https://github.com/attics/rub
 * :gem: Ruby Attic
   * :spider_web: [Seeking maintainer](#maintainers)
   * :juggling_person: [Seeking contributors](#contributors)
-  * :sleepy: [Stale](#stabe)
+  * :sleepy: [Stale](#stale)
 
 ## Maintainers
 
