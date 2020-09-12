@@ -15,6 +15,7 @@ Thanks to all the [awesome people who contributed](https://github.com/attics/rub
 * :gem: Ruby Attic
   * :spider_web: [Seeking maintainer](#maintainers)
   * :juggling_person: [Seeking contributors](#contributors)
+  * :sleepy: [Stale](#stabe)
 
 ## Maintainers
 
@@ -35,3 +36,8 @@ Thanks to all the [awesome people who contributed](https://github.com/attics/rub
 * [Camo](https://github.com/svanzoest/camo)
 * [Currency-Ruby](https://github.com/ruby-concurrency/concurrent-ruby/)
 * [Database Cleaner](https://github.com/DatabaseCleaner/database_cleaner)
+
+## Stale
+
+* [Milia](https://github.com/jekuno/milia)
+* [Schedulable](https://github.com/benignware/schedulable)
