@@ -34,6 +34,7 @@ Thanks to all the [awesome people who contributed](https://github.com/attics/rub
 * [Camo](https://github.com/svanzoest/camo)
 * [Concurrent-Ruby](https://github.com/ruby-concurrency/concurrent-ruby/)
 * [Database Cleaner](https://github.com/DatabaseCleaner/database_cleaner)
+* [KT Paperclip](https://github.com/kreeti/kt-paperclip)
 
 ## Stale
 
