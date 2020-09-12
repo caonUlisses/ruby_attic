@@ -31,5 +31,5 @@ Thanks to all the [awesome people who contributed](https://github.com/attics/rub
 ## Contributors
 
 * [Camo](https://github.com/svanzoest/camo)
-* [Currency-Ruby](https://github.com/ruby-concurrency/concurrent-ruby/)
+* [Concurrent-Ruby](https://github.com/ruby-concurrency/concurrent-ruby/)
 * [Database Cleaner](https://github.com/DatabaseCleaner/database_cleaner)
