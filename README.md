@@ -1,7 +1,5 @@
-<p align="center">
 # Ruby Attic
 ## :gem: Unmaintained Ruby projects needing people!
-</p>
 
 ---
 
