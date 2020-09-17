@@ -11,9 +11,9 @@ Thanks to all the [awesome people who contributed](https://github.com/attics/rub
 ---
 
 * :gem: Ruby Attic
-  * :spider_web: [Seeking maintainer](#maintainers)
-  * :juggling_person: [Seeking contributors](#contributors)
-  * :sleepy: [Stale](#stale)
+  * :spider_web: [Seeking maintainer](#maintainers) - Projects without a main maintainer (no one is accepting pull requests/guiding the project)
+  * :juggling_person: [Seeking contributors](#contributors) - Projects that need more people sending pull requests/reviewing/testing
+  * :sleepy: [Stale](#stale) - Projects that may be dead
 
 ## Maintainers
 
@@ -40,3 +40,7 @@ Thanks to all the [awesome people who contributed](https://github.com/attics/rub
 
 * [Milia](https://github.com/jekuno/milia)
 * [Schedulable](https://github.com/benignware/schedulable)
+
+## BECOMING A MAIN CONTRIBUTOR
+
+Open an issue with the template 'I want to be a contributor' and fill the template options accordingly.
