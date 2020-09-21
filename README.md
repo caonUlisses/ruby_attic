@@ -14,6 +14,7 @@ Thanks to all the [awesome people who contributed](https://github.com/attics/rub
   * :spider_web: [Seeking maintainer](#maintainers) - Projects without a main maintainer (no one is accepting pull requests/guiding the project)
   * :juggling_person: [Seeking contributors](#contributors) - Projects that need more people sending pull requests/reviewing/testing
   * :sleepy: [Stale](#stale) - Projects that may be dead
+  * :sos: [404](#404) - Those who died but should come back
 
 ## Maintainers
 
@@ -41,6 +42,9 @@ Thanks to all the [awesome people who contributed](https://github.com/attics/rub
 * [Milia](https://github.com/jekuno/milia)
 * [Netzke](https://github.com/netzke/netzke)
 * [Schedulable](https://github.com/benignware/schedulable)
+
+## 404
+* [Bootstrap Slider](https://github.com/seiyria/bootstrap-slider)
 
 ## BECOMING A MAIN CONTRIBUTOR
 
