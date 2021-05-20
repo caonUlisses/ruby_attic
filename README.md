@@ -39,6 +39,7 @@ Thanks to all the [awesome people who contributed](https://github.com/attics/rub
 
 ## Stale
 
+* [Lograge](https://github.com/roidrage/lograge)
 * [Milia](https://github.com/jekuno/milia)
 * [Netzke](https://github.com/netzke/netzke)
 * [Schedulable](https://github.com/benignware/schedulable)
