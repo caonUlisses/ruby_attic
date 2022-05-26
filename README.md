@@ -28,6 +28,7 @@ Thanks to all the [awesome people who contributed](https://github.com/attics/rub
 * [Maintainer Seeker](https://github.com/andrewmcodes/maintainer-seeker)
 * [Role Requirement](https://github.com/timcharper/role_requirement)
 * [Scrapi](https://github.com/assaf/scrapi)
+* [Visual Studio Code - Ruby](https://github.com/rubyide/vscode-ruby)
 * [WSC-SDK](https://github.com/WowzaMediaSystems/wsc-sdk-ruby)
 
 ## Contributors
