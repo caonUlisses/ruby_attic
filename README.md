@@ -24,7 +24,6 @@ Thanks to all the [awesome people who contributed](https://github.com/attics/rub
 * [Combine PDF](https://github.com/boazsegev/combine_pdf)
 * [Email Spec](https://github.com/email-spec/email-spec/)
 * [Impressionist](https://github.com/charlotte-ruby/impressionist)
-* [Juvia](https://github.com/phusion/juvia)
 * [Maintainer Seeker](https://github.com/andrewmcodes/maintainer-seeker)
 * [Role Requirement](https://github.com/timcharper/role_requirement)
 * [Scrapi](https://github.com/assaf/scrapi)
@@ -36,6 +35,7 @@ Thanks to all the [awesome people who contributed](https://github.com/attics/rub
 * [Camo](https://github.com/svanzoest/camo)
 * [Concurrent-Ruby](https://github.com/ruby-concurrency/concurrent-ruby/)
 * [Database Cleaner](https://github.com/DatabaseCleaner/database_cleaner)
+* [Juvia](https://github.com/phusion/juvia)
 * [KT Paperclip](https://github.com/kreeti/kt-paperclip)
 
 ## Stale
